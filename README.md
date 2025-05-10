@@ -1,4 +1,6 @@
 # Control-Bluetooth-con-ESP32-C3
+Para mas detalles visita el tutorial completo en Youtube
+
 Te comparto todos los archivos para esta practica de controlar leds o motores via Bluetooth
 With this PCB you can connect motors and invert the motor's rotation with the L9110 H bridge, in addition to sending via Bluetooth
 Con esta tarjeta puedes controlar vía Bluetooth motores o luces led con ayuda del ESP32 C3 (yo utilizo la versión super mini), para ello necesitamos crear una App, yo utilice la plataforma de RemoteXY.
@@ -31,6 +33,6 @@ Tengo un circuito en el que el ESP32 C3 tiene conectado en el gpio 4 un led y en
 
 (Aquí se pega la parte del código que generas en RemoteXY)
 
-![photo_4969881785949335180_x](https://github.com/user-attachments/assets/6a8af830-f38f-45dd-9ece-8003ed895aef)
+https://www.youtube.com/watch?v=bG5-SZCptJs&t=159s
 
 
